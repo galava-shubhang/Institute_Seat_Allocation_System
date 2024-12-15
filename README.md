@@ -5,9 +5,12 @@ In collaboration with my teammate, Ashish Manash, we built a system that simulat
 
 [main.py](https://github.com/galava-shubhang/Institute_Seat_Allocation_System/blob/main/main.py) - Program File
 
-[cover.pdf] - Cover Letter for the Project Report
+[cover.pdf](https://github.com/galava-shubhang/Institute_Seat_Allocation_System/blob/main/cover.pdf) - Cover Letter for the Project Report
+
 [Project-Proposal.pdf] - Document submitted, detailing the objectives, methodology and expected outcomes of the project.
+
 [Project-Report.pdf] - Detailed project report, including the implementation of various methods and the results obtained.
+
 [demo.ipynb] - Jupyter Notebook (contains the code used for demonstration of the project) 
 
 
