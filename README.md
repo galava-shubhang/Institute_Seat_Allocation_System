@@ -1,11 +1,13 @@
-# Institute Seat Allocation System - DSA Mini Project
+This project is part of the CS202M - Data Structures and Algorithms course, contributing to my minor in computer science and engineering.
 
-This project was developed as part of the CS202M - Data Structures and Algorithms course, contributing to my Minor Degree in Computer Science and Engineering.
+In collaboration with my teammate, Ashish Manash, we built a system that simulates an institute seat allocation process. The objective was to create a program that efficiently manages seat allotment for students based on their ranks in a common entrance examination, considering their institute preferences. This project demonstrates a practical implementation of a priority-based seat allocation system, where students can be placed in their preferred branches across multiple participating institutes through a centralized, standard admission process.
 
-In collaboration with my teammate, Ashish Manash, we built a software system that simulates an institute seat allocation process.
-The objective was to create a program that efficiently manages seat allotment for students based on their entrance exam ranks and institute preferences.
-This project demonstrates a practical implementation of a priority-based seat allocation system, where students can be placed in their preferred branches 
-across multiple participating institutes through a centralized, common admission process.
 
-The detailed project report is present in the Project_Report.pdf file. 
+main.py - Program File
+cover.pdf - Cover Letter for the Project Report
+Project-Proposal.pdf - Document submitted, detailing the objectives, methodology and expected outcomes of the project.
+Project-Report.pdf - Detailed project report, including the implementation of various methods and the results obtained.
+demo.ipynb - Jupyter Notebook (contains the code used for demonstration of the project) 
+
+
 The entire program has been implemented in Python.
