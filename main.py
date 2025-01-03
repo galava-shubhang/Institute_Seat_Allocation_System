@@ -245,7 +245,7 @@ while not priority_queue.is_empty():
             institutes[institute][branch] -= 1  # Reduce seat count
             break  # Stop after assigning the first available preference
 
-def admin_ddashboard():
+def admin_dashboard():
                 # Admin dashboard - Can view the whole data stored in the system including students' passwords, 
                 # Institute details
                 # and the Final Seat Allotments of each student.
@@ -314,7 +314,7 @@ def main():
             admin_password = input("Enter admin password: ").strip()
             if login(admin_username.lower(), admin_password, Role.ADMIN):
                 print("\n Admin dashboard \n")
-                print(admin_ddashboard())
+                print(admin_dashboard())
 
         #The institute role:
         elif choice in ['I', 'i']:
